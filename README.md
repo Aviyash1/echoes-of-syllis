@@ -36,7 +36,7 @@ The project is currently in active development using the Unity Engine as part of
 - **Unity**
 - **C#**
 - **Git & GitHub**
-- **Visual Studio / VS Code**
+- **Visual Studio**
 
 ---
 
