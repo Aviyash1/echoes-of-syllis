@@ -43,7 +43,7 @@ public class MainMenu : MonoBehaviour
     /// </summary>
     public void PlayGame()
     {
-        StartCoroutine(FadeAndLoadScene("Level01"));
+        StartCoroutine(FadeAndLoadScene("SampleScene"));
     }
 
     /// <summary>
